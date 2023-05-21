@@ -2,8 +2,6 @@
 // Author: Lokesh Gupta
 // Source: https://howtodoinjava.com/java/calculate-age-from-date-of-birth/
 
-package MP5.vendor;
-
 import java.util.Calendar;
 import java.util.Date;
 
